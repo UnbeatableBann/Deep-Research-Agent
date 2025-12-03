@@ -11,7 +11,7 @@ An intelligent multi-agent system that automates the entire research process —
 
 Built using:
 - [LangChain](https://github.com/langchain-ai/langchain)
-- [OpenAI](https://openai.com/)  (can be used instead of Gemini)
+- [Gemini](https://aistudio.google.com/api-keys) 
 - [Google Generative AI (Gemini)](https://developers.google.com/generative-ai)
 - [Tavily Search API](https://docs.tavily.com/)
 
@@ -20,7 +20,7 @@ Built using:
 ## 🏗️ Architecture Overview
 
 Below is the high-level architecture of the **Advanced Research Agent**, showing how the Planning, Research, Fact-Checking, and Answer Drafting agents interact in a multi-stage pipeline:
-
+In architecture, we have used OpenAI, but in code, we have used Gemini.
 ![Advanced Research Agent Architecture](https://i.imgur.com/STSC73k.png)
 
 ---
