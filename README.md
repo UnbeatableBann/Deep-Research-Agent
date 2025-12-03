@@ -17,6 +17,14 @@ Built using:
 
 ---
 
+## 🏗️ Architecture Overview
+
+Below is the high-level architecture of the **Advanced Research Agent**, showing how the Planning, Research, Fact-Checking, and Answer Drafting agents interact in a multi-stage pipeline:
+
+![Advanced Research Agent Architecture](https://i.imgur.com/STSC73k.png)
+
+---
+
 ## 🛠 Installation
 
 1. **Clone the repository:**
