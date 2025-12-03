@@ -1,0 +1,12 @@
+tavily-python
+langchain 
+langgraph  
+openai 
+faiss-cpu 
+chromadb 
+beautifulsoup4 
+requests
+load_dotenv
+langchain_community
+langchain-google-genai
+rich
